@@ -1,0 +1,4 @@
+setuptools=40.8.0
+Flask==0.11.1
+SQLAlchemy==1.1.4
+Flask-SQLAlchemy==2.1
